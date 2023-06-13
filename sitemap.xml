@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>http://istanbulkitchen.in/</loc>
+  <lastmod>2022-03-14T07:06:38+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://istanbulkitchen.in/index.html</loc>
+  <lastmod>2022-03-14T07:06:38+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://istanbulkitchen.in/About%20Us.html</loc>
+  <lastmod>2022-03-14T06:58:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://istanbulkitchen.in/menu.html</loc>
+  <lastmod>2022-03-14T06:57:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://istanbulkitchen.in/contact.html</loc>
+  <lastmod>2022-03-14T06:57:48+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://istanbulkitchen.in/Book%20a%20table.html</loc>
+  <lastmod>2022-03-14T07:00:30+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://istanbulkitchen.in/assets/PDF/Menu.pdf</loc>
+  <lastmod>2022-03-14T06:34:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
